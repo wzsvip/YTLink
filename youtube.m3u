@@ -184,7 +184,7 @@ https://www.clarity.ms/tag/"+i;
                         <a href="/"><i class="iconfont hl-icon-shouye"></i><span>首页</span></a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodtype/dianying.html" class="active"><i class="iconfont hl-icon-dianying"></i><span>电影</span><em>30014</em>                        </a>
+                        <a href="/vodtype/dianying.html" class="active"><i class="iconfont hl-icon-dianying"></i><span>电影</span><em>30015</em>                        </a>
                     </li>
                                         <li class="hl-type-child">
                                             <a class="hl-bg-subs" href="/vodtype/dongzuopian.html">动作片</a>
