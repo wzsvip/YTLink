@@ -42,7 +42,233 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="中国", 电影
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "nk48se7xef");
+</script></head>
+<body class="fofoyy-hasone">
+<div id="fofoyy-header" class="fofoyy-header">
+    <div class="fofoyy-headwrap hl-hidden-xs">
+        <div class="container">
+            <h1 class="fofoyy-logo">
+				<span style="display:none;">FoFo影院</span>
+                <a class="hl-logo hl-logo-black" alt="FoFo影院" style="background-image: url(/template/fofoyy/asset/img/logo_black.png);" href="/"></a>
+                <a class="hl-logo hl-logo-white" alt="FoFo影院" style="background-image: url(/template/fofoyy/asset/img/logo_white.png);" href="/"></a>
+            </h1>
+            <div class="fofoyy-list fofoyy-content">
+                <ul class="hl-list hl-text-muted clearfix">
+                                        <li class="hl-list-font hl-list-history hl-alert-items hl-full-items hl-hidden-xs">
+                        <a href="javascript:void(0)" class="history hl-full-op" title="观看记录"><i class="iconfont hl-icon-shijian"></i></a>
+                        <div class="hl-history-box hl-alert-box hl-full-alert hl-full-x100 hl-bg-site hl-fadeIn-sm">
+                            <div class="hl-hy-warp hl-row-box hl-user-log">
+                                <div class="hl-hy-title hl-full-head">
+                                   <a class="hl-close-full hl-hide-sm hl-text-muted" href="javascript:void(0)"><i class="iconfont hl-icon-cuo"></i></a>
+                                    <span>观看记录</span>
+                                </div>
+                                <div class="hl-hy-list hl-public-box hl-sm-box">
+                                    <ul class="hl-public-vod row clearfix" id="hl-history"></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                        <li class="hl-list-font hl-hidden-xs">
+                        <a href="/topic/" title="{专题|mac_default='专题'}"><i class="iconfont hl-icon-zhuanti"></i></a>
+                    </li>
+                                        <li class="hl-list-font hl-hidden-xs">
+                        <a href="/updated/index.html" title="最新"><i class="iconfont hl-icon-zuixin"></i></a>
+                    </li>
+                                        <li class="hl-list-font hl-hidden-xs">
+                        <a href="/label/rank.html" title="排行"><i class="iconfont hl-icon-paihang"></i></a>
+                    </li>
+                                        <li class="hl-list-font hl-alert-items hl-user-items">
+                        <a class="fofoyy-user" href="javascript:void(0)" title="登陆"><i class="iconfont hl-icon-huiyuan"></i></a>
+                    </li>
+                                    </ul>
+            </div>             <div class="fofoyy-search">
+                <div class="hl-search-focus hl-full-op"></div>
+                <form class="hl-search hl-text-site hl-search-selop" name="search" method="get" action="/vodsearch/-------------.html" onsubmit="return qrsearch();">
+    <a href="javascript:;" class="hl-search-select hl-text-subs">
+                <span class="hl-ss-text" data-mid="1">视频</span>        <i class="iconfont hl-icon-jiantouxia"></i>
+    </a>
+    <input id="hl-search-text" class="hl-search-text hl-search-wd hl-search-top" type="text" name="wd" value="" placeholder="请输入关键字">
+    <button id="hl-search-submit" class="hl-search-submit" type="submit" name="submit"><i class="iconfont hl-icon-sousuo"></i><span class="hl-hidden-xs">&nbsp;搜索</span></button>
+</form>
+<div class="hl-alert-box hl-ss-box hl-bg-site hl-fadeIn">
+   <div class="hl-ss-item">
+                <span class="hl-text-site hl-text-hover" data-mid="1" data-action="/vodsearch/-------------.html">视频</span>   </div>
+</div>                <div class="hl-full-items">
+                <div class="hl-alert-box hl-sh-box hl-full-alert hl-full-x100 hl-bg-site hl-fadeIn-sm">
+                   <div class="hl-sh-search hl-hide-sm">
+                    <form class="hl-search hl-text-site hl-search-selop" name="search" method="get" action="/vodsearch/-------------.html" onsubmit="return qrsearch();">
+                        <input class="hl-search-text hl-search-wd" type="text" name="wd" value="" placeholder="请输入关键字">
+                        <button class="hl-search-submit" type="submit" name="submit"><i class="iconfont hl-icon-sousuo"></i></button>
+                        <a href="javascript:;" class="hl-close-full">取消</a>
+                    </form>
+                   </div>
+                   <div class="hl-sh-wrap">
+                       <div class="hl-sh-item">
+                            <div class="hl-sh-title">推荐搜索</div>
+                            <ul class="hl-sh-list clearfix">
+                                                                <li><a class="hl-bg-subs" href="/vodsearch/%E5%B0%91%E5%B9%B4%E7%99%BD%E9%A9%AC%E9%86%89%E6%98%A5%E9%A3%8E-------------.html">少年白马醉春风<i>热</i></a></li>
+                                                                <li><a class="hl-bg-subs" href="/vodsearch/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C-------------.html">唐朝诡事录之西行</a></li>
+                                                                <li><a class="hl-bg-subs" href="/vodsearch/%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%AF%B4%E5%94%B12024-------------.html">中国新说唱2024</a></li>
+                                                                <li><a class="hl-bg-subs" href="/vodsearch/%E6%AD%8C%E6%89%8B2024-------------.html">歌手2024</a></li>
+                                                                <li><a class="hl-bg-subs" href="/vodsearch/%E4%BD%A0%E6%AF%94%E6%98%9F%E5%85%89%E7%BE%8E%E4%B8%BD-------------.html">你比星光美丽</a></li>
+                                                                <li><a class="hl-bg-subs" href="/vodsearch/%E5%BA%86%E4%BD%99%E5%B9%B4+%E7%AC%AC%E4%BA%8C%E5%AD%A3-------------.html">庆余年 第二季</a></li>
+                                                            </ul>
+                       </div>
+                   </div>
+                </div>
+                </div>
+            </div>
+                        <div class="fofoyy-nav">
+                <div class="hl-nav-wrap hl-navswiper">
+                    <ul class="hl-nav hl-text-site swiper-wrapper clearfix">
+                                                <li class="hl-nav-item hl-slide-swiper hl-author-qq-362695000">
+                            <a href="/">首页</a>
+                        </li>
+                                                <li class="hl-nav-item hl-slide-swiper">
+                            <a href="/vodtype/dianying.html" class="hl-text-fofoyy active">电影</a>
+                        </li>
+                                                <li class="hl-nav-item hl-slide-swiper">
+                            <a href="/vodtype/lianxuju.html">连续剧</a>
+                        </li>
+                                                <li class="hl-nav-item hl-slide-swiper">
+                            <a href="/vodtype/zongyi.html">综艺</a>
+                        </li>
+                                                <li class="hl-nav-item hl-slide-swiper">
+                            <a href="/vodtype/dongman.html">动漫</a>
+                        </li>
+                                                <li class="hl-nav-item hl-slide-swiper">
+                            <a href="/topic/">专题</a>
+                        </li>
+                                                <li class="hl-nav-item hl-slide-swiper">
+                            <a href="/feedback/">留言</a>
+                        </li>
+                                                <li class="hl-nav-item hl-slide-swiper">
+                            <a href="/updated/index.html">最新</a>
+                        </li>
+                                                <li class="hl-nav-item hl-slide-swiper">
+                            <a href="/label/rank.html">排行</a>
+                        </li>
+                                            </ul>   
+                </div>
+                <div class="hl-nav-more">
+                    <i class="hl-mbg hl-hide-sm"></i>
+                    <a class="hl-text-site hl-open-menu" href="javascript:;"><span class="hl-hidden-xs">全部</span><i class="iconfont hl-icon-caidan"></i></a>
+                </div>
+            </div>
+                    </div>
+    </div>
+        <div class="fofoyy-headwrap hl-hide-sm">
+        <div class="hl-mob-nav">
+            <a href="javascript:MAC.GoBack()" class="hl-pull-left left"><i class="iconfont hl-icon-jiantouzuo"></i></a>
+            <a href="javascript:;" class="hl-open-menu hl-pull-right right"><i class="iconfont hl-icon-caidan"></i></a>
+            <span class="hl-mob-title hl-mob-type hl-text-site hl-lc-1">电影</span>
+            <span class="hl-mob-name hl-text-site hl-lc-1">保镖2024</span>
+        </div>
+    </div>
+        <div class="fofoyy-menus hl-bg-site hl-tran5">
+    <div class="fofoyy-ms-header">
+        <div class="fofoyy-logo">
+            <a class="hl-logo hl-logo-black" style="background-image: url(/template/fofoyy/asset/img/logo_black.png);" href="/"></a>
+            <a class="hl-logo hl-logo-white" style="background-image: url(/template/fofoyy/asset/img/logo_white.png);" href="/"></a>
+        </div>
+        <a class="fofoyy-ms-close hl-text-muted" href="javascript:;"><i class="iconfont hl-icon-cuo"></i></a>
+    </div>
+    <div class="fofoyy-scrollbar">
+        <div class="swiper-wrapper">
+            <div class="fofoyy-mswrap swiper-slide">
+                <ul class="hl-menus clearfix">
+                                        <li class="hl-menus-item">
+                        <a href="/"><i class="iconfont hl-icon-shouye"></i><span>首页</span></a>
+                    </li>
+                                        <li class="hl-menus-item">
+                        <a href="/vodtype/dianying.html" class="active"><i class="iconfont hl-icon-dianying"></i><span>电影</span><em>30039</em>                        </a>
+                    </li>
+                                        <li class="hl-type-child">
+                                            <a class="hl-bg-subs" href="/vodtype/dongzuopian.html">动作片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/xijupian.html">喜剧片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/aiqingpian.html">爱情片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/kehuanpian.html">科幻片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/kongbupian.html">恐怖片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/juqingpian.html">剧情片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/zhanzhengpian.html">战争片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/jingsongpian.html">惊悚片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/jiatingpian.html">家庭片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/guzhuangpian.html">古装片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/lishipian.html">历史片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/xuanyipian.html">悬疑片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/fanzuipian.html">犯罪片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/zainanpian.html">灾难片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/jilupian.html">记录片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/duanpian.html">短片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/donghuapian.html">动画片</a>
+                                            <a class="hl-bg-subs" href="/vodtype/lunlipian.html">伦理片</a>
+                                        </li>                    <li class="hl-menus-item">
+                        <a href="/vodtype/lianxuju.html"><i class="iconfont hl-icon-dianshiju3"></i><span>连续剧</span><em>16266</em>                        </a>
+                    </li>
+                                        <li class="hl-type-child">
+                                            <a class="hl-bg-subs" href="/vodtype/guochanju.html">国产剧</a>
+                                            <a class="hl-bg-subs" href="/vodtype/xianggangju.html">香港剧</a>
+                                            <a class="hl-bg-subs" href="/vodtype/hanguoju.html">韩国剧</a>
+                                            <a class="hl-bg-subs" href="/vodtype/oumeiju.html">欧美剧</a>
+                                            <a class="hl-bg-subs" href="/vodtype/taiwanju.html">台湾剧</a>
+                                            <a class="hl-bg-subs" href="/vodtype/ribenju.html">日本剧</a>
+                                            <a class="hl-bg-subs" href="/vodtype/haiwaiju.html">海外剧</a>
+                                            <a class="hl-bg-subs" href="/vodtype/taiguoju.html">泰国剧</a>
+                                            <a class="hl-bg-subs" href="/vodtype/shuangwenduanju.html">爽文短剧</a>
+                                        </li>                    <li class="hl-menus-item">
+                        <a href="/vodtype/zongyi.html"><i class="iconfont hl-icon-zongyi"></i><span>综艺</span><em>3091</em>                        </a>
+                    </li>
+                                        <li class="hl-type-child">
+                                            <a class="hl-bg-subs" href="/vodtype/daluzongyi.html">大陆综艺</a>
+                                            <a class="hl-bg-subs" href="/vodtype/gangtaizongyi.html">港台综艺</a>
+                                            <a class="hl-bg-subs" href="/vodtype/rihanzongyi.html">日韩综艺</a>
+                                            <a class="hl-bg-subs" href="/vodtype/oumeizongyi.html">欧美综艺</a>
+                                        </li>                    <li class="hl-menus-item">
+                        <a href="/vodtype/dongman.html"><i class="iconfont hl-icon-dongman"></i><span>动漫</span><em>5962</em>                        </a>
+                    </li>
+                                        <li class="hl-type-child">
+                                            <a class="hl-bg-subs" href="/vodtype/guochandongman.html">国产动漫</a>
+                                            <a class="hl-bg-subs" href="/vodtype/oumeidongman.html">欧美动漫</a>
+                                            <a class="hl-bg-subs" href="/vodtype/ribendongman.html">日本动漫</a>
+                                            <a class="hl-bg-subs" href="/vodtype/lifandongman.html">里番动漫</a>
+                                        </li>                    <li class="hl-menus-item">
+                        <a href="/topic/"><i class="iconfont hl-icon-zhuanti"></i><span>专题</span></a>
+                    </li>
+                                        <li class="hl-menus-item">
+                        <a href="/feedback/"><i class="iconfont hl-icon-liuyan"></i><span>留言</span></a>
+                    </li>
+                                        <li class="hl-menus-item">
+                        <a href="/updated/index.html"><i class="iconfont hl-icon-zuixin"></i><span>最新</span></a>
+                    </li>
+                                        <li class="hl-menus-item">
+                        <a href="/label/rank.html"><i class="iconfont hl-icon-paihang"></i><span>排行</span></a>
+                    </li>
+                                    </ul>
+            </div>       
+        </div>
+        <div class="swiper-scrollbar"></div>
+    </div>
+    <div class="fofoyy-ms-overlay"></div>
+</div>
+</div>
+<div id="fofoyy-content" class="fofoyy-content">
+    <div class="fofoyy-ctwrap-auto">
+        <div class="container hl-paly-players">
+            <div class="hl-row-box hl-ma0 clearfix">
+                <div class="hl-col-xs-12 hl-col-md-70w hl-col-lg-9">
+                    <div class="hl-player-wrap embed-responsive embed-responsive-16by9 by-qq362695000 clearfix">
+                                                    <div class="hl-player-notice hl-this-box hl-text-white">
+                                <a class="hl-close-this" href="javascript:void(0)"><i class="iconfont hl-icon-cuo"></i></a>
+                                <ul class="clearfix">
+                                                                        <li><strong><i class="hl-text-fofoyy">提醒：</i>不要轻易相信视频中的广告，谨防上当受骗!</strong></li>
+                                                                        <li>如果无法播放请重新刷新页面，或者切换线路。</li>
+                                                                        <li>视频载入速度跟网速有关，请耐心等待几秒钟。</li>
+                                                                    </ul>
+                            </div>
+                                                    <script type="text/javascript">var player_aaaa={"flag":"play","encrypt":0,"trysee":0,"points":0,"link":"\/vodplay\/54979-1-1.html","link_next":"","link_pre":"","vod_data":{"vod_name":"\u4fdd\u95562024","vod_actor":"\u5c48\u83c1\u83c1 , \u8881\u798f\u798f , \u6df3\u4e8e\u73ca\u73ca , \u5218\u5cf0\u8d85 , \u8d75\u4eae","vod_director":"\u79e6\u9e4f\u98de","vod_class":"\u52a8\u4f5c,\u72af\u7f6a"},"url":"https:\/\/bfikuncdn.com\/20241017\/nxy9Odtw\/index.m3u8
 
 #EXTINF:-1 group-title="Us", 电影
 https://shandianpic.com/upload/vod/20231008-1/31ec726f1102054c3b38d2c63fa37c33.jpg';</script>
