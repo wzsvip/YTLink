@@ -184,16 +184,16 @@ https://www.clarity.ms/tag/"+i;
                         <a href="/"><i class="iconfont hl-icon-shouye"></i><span>首页</span></a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/dianying/" class="active"><i class="iconfont hl-icon-dianying"></i><span>电影</span><em>23231</em>                        </a>
+                        <a href="/vodshow/id/dianying/" class="active"><i class="iconfont hl-icon-dianying"></i><span>电影</span><em>23819</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/dianshiju/"><i class="iconfont hl-icon-dianshiju3"></i><span>电视剧</span><em>19948</em>                        </a>
+                        <a href="/vodshow/id/dianshiju/"><i class="iconfont hl-icon-dianshiju3"></i><span>电视剧</span><em>20240</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/zongyi/"><i class="iconfont hl-icon-zongyi"></i><span>综艺</span><em>5933</em>                        </a>
+                        <a href="/vodshow/id/zongyi/"><i class="iconfont hl-icon-zongyi"></i><span>综艺</span><em>5981</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/dongman/"><i class="iconfont hl-icon-dongman"></i><span>动漫</span><em>7455</em>                        </a>
+                        <a href="/vodshow/id/dongman/"><i class="iconfont hl-icon-dongman"></i><span>动漫</span><em>7456</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
                         <a href="/topic/"><i class="iconfont hl-icon-zhuanti"></i><span>专题</span></a>
@@ -330,7 +330,7 @@ https://shandianpic.com/upload/vod/20231008-1/31ec726f1102054c3b38d2c63fa37c33.j
 <li class="navbar-hr"></li>
 <li class="swiper-slide navbar-item  ">
 <a href="/index.php/label/new.html" class="links">
-<i class="icon-arrow-go"></i><i class="icon icon-update-o"></i><span>今日更新</span><small>114</small></a>
+<i class="icon-arrow-go"></i><i class="icon icon-update-o"></i><span>今日更新</span><small>76</small></a>
 </li>
 <!--专题-->
 								
