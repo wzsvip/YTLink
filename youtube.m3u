@@ -140,9 +140,6 @@ https://www.clarity.ms/tag/"+i;
                             <a href="/vodshow/id/dongman/">动漫</a>
                         </li>
                                                 <li class="hl-nav-item hl-slide-swiper">
-                            <a href="/topic/">专题</a>
-                        </li>
-                                                <li class="hl-nav-item hl-slide-swiper">
                             <a href="/gbook/">留言</a>
                         </li>
                                                 <li class="hl-nav-item hl-slide-swiper">
@@ -184,19 +181,16 @@ https://www.clarity.ms/tag/"+i;
                         <a href="/"><i class="iconfont hl-icon-shouye"></i><span>首页</span></a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/dianying/" class="active"><i class="iconfont hl-icon-dianying"></i><span>电影</span><em>40044</em>                        </a>
+                        <a href="/vodshow/id/dianying/" class="active"><i class="iconfont hl-icon-dianying"></i><span>电影</span><em>40046</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/dianshiju/"><i class="iconfont hl-icon-dianshiju3"></i><span>电视剧</span><em>21939</em>                        </a>
+                        <a href="/vodshow/id/dianshiju/"><i class="iconfont hl-icon-dianshiju3"></i><span>电视剧</span><em>21955</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/zongyi/"><i class="iconfont hl-icon-zongyi"></i><span>综艺</span><em>6282</em>                        </a>
+                        <a href="/vodshow/id/zongyi/"><i class="iconfont hl-icon-zongyi"></i><span>综艺</span><em>6291</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/dongman/"><i class="iconfont hl-icon-dongman"></i><span>动漫</span><em>9040</em>                        </a>
-                    </li>
-                                        <li class="hl-menus-item">
-                        <a href="/topic/"><i class="iconfont hl-icon-zhuanti"></i><span>专题</span></a>
+                        <a href="/vodshow/id/dongman/"><i class="iconfont hl-icon-dongman"></i><span>动漫</span><em>9044</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
                         <a href="/gbook/"><i class="iconfont hl-icon-liuyan"></i><span>留言</span></a>
@@ -330,7 +324,7 @@ https://shandianpic.com/upload/vod/20231008-1/31ec726f1102054c3b38d2c63fa37c33.j
 <li class="navbar-hr"></li>
 <li class="swiper-slide navbar-item  ">
 <a href="/index.php/label/new.html" class="links">
-<i class="icon-arrow-go"></i><i class="icon icon-update-o"></i><span>今日更新</span><small>99</small></a>
+<i class="icon-arrow-go"></i><i class="icon icon-update-o"></i><span>今日更新</span><small>144</small></a>
 </li>
 <!--专题-->
 								
