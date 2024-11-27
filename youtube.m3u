@@ -184,7 +184,7 @@ https://www.clarity.ms/tag/"+i;
                         <a href="/"><i class="iconfont hl-icon-shouye"></i><span>首页</span></a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/dianying/" class="active"><i class="iconfont hl-icon-dianying"></i><span>电影</span><em>40042</em>                        </a>
+                        <a href="/vodshow/id/dianying/" class="active"><i class="iconfont hl-icon-dianying"></i><span>电影</span><em>40044</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
                         <a href="/vodshow/id/dianshiju/"><i class="iconfont hl-icon-dianshiju3"></i><span>电视剧</span><em>21938</em>                        </a>
@@ -193,7 +193,7 @@ https://www.clarity.ms/tag/"+i;
                         <a href="/vodshow/id/zongyi/"><i class="iconfont hl-icon-zongyi"></i><span>综艺</span><em>6281</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
-                        <a href="/vodshow/id/dongman/"><i class="iconfont hl-icon-dongman"></i><span>动漫</span><em>9036</em>                        </a>
+                        <a href="/vodshow/id/dongman/"><i class="iconfont hl-icon-dongman"></i><span>动漫</span><em>9040</em>                        </a>
                     </li>
                                         <li class="hl-menus-item">
                         <a href="/topic/"><i class="iconfont hl-icon-zhuanti"></i><span>专题</span></a>
