@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Taiwan", TVBS新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734822630/ei/hvZmZ4LyBf6-sfIPzIvyQQ/ip/52.225.77.176/id/2mCSYvcfhtc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/x-caUDlsRuMcSzXVv8gfZl5QojT7Q-K-OsmlT7wvwsP6khCik1HidE9p6SJZJU0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgR0m_LsjjmoWrs4Gaa7UwahshyOWFGYUDnWqjJgQUdikCIC_w-7kLOCn67zHhwhc5a52tISE2cvcSW3k9-pqHiNDm/file/index.m3u8
+https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Taiwan", 台視新聞
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -143,7 +143,7 @@ https://shandianpic.com/upload/vod/20231008-1/31ec726f1102054c3b38d2c63fa37c33.j
 <li class="navbar-hr"></li>
 <li class="swiper-slide navbar-item  ">
 <a href="/index.php/label/new.html" class="links">
-<i class="icon-arrow-go"></i><i class="icon icon-update-o"></i><span>今日更新</span><small>0</small></a>
+<i class="icon-arrow-go"></i><i class="icon icon-update-o"></i><span>今日更新</span><small>68</small></a>
 </li>
 <!--专题-->
 								
